@@ -1,0 +1,6 @@
+{
+  "name": "Email_Thread",
+  "description": "Sent mail with interval",
+  "image": "heroku/python",
+  "keywords": ["python", "django" ]
+}
