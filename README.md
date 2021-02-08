@@ -4,7 +4,7 @@
 
 ### Как развернуть на локальном устройстве
 
-* склонировать этот репозиторий ```https://github.com/YuriyShashurin/email_thread.git```
+* склонировать этот репозиторий ```git clone https://github.com/YuriyShashurin/email_thread.git```
 * перейти в папку с ним ```cd email_thread```
 * создать виртуальное окружение ```python -m venv venv```
 * активировать его ```venv/bin/activate```
